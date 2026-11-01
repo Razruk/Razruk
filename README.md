@@ -4,7 +4,7 @@ Desarrollador de software con experiencia en desarrollo full stack con .NET.
 
 ## 🛠️ Stack
 
-![C#](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,css,git,github&perline=8)
+![C#](https://skillicons.dev/icons?i=cs,php,dotnet,angular,ts,html,css,git,github&perline=8)
 
 - **Backend:** C#, .NET, VB.NET, APIs REST, PHP
 - **Datos:** SQL Server, stored procedures, SSRS
