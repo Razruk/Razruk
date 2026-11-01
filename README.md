@@ -24,8 +24,3 @@ Desarrollador de software con experiencia en desarrollo full stack con .NET.
 - Interfaces web con Angular y TypeScript
 - Mantenimiento y mejora de aplicaciones existentes
 - Documentación técnica y trabajo directo con usuarios para entender requerimientos
-
-## 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Razruk&show_icons=true&theme=default&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Razruk&layout=compact&hide_border=true)
