@@ -27,5 +27,5 @@ Desarrollador de software con experiencia en desarrollo full stack con .NET.
 
 ## 📊 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Razruk&show_icons=true&theme=default&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Razruk&layout=compact&hide_border=true)
