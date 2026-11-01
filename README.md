@@ -19,7 +19,6 @@ Desarrollador de software con experiencia en desarrollo full stack con .NET.
 - Diseño de bases de datos y lógica en SQL Server: consultas, stored procedures y optimización
 - Reportes con SSRS: diseño, parámetros y distribución
 - Desarrollo de componentes reutilizables y librerías en C# (assemblies)
-- Procesamiento y generación de archivos XML
 - Automatización de procesos y tareas repetitivas
 - Interfaces web con Angular y TypeScript
 - Mantenimiento y mejora de aplicaciones existentes
